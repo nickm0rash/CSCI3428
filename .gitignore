@@ -1,6 +1,6 @@
 node_modules/
 client/node_modules/
-package-lock.json7
+package-lock.json
 
 # next.js
 client/.next/
